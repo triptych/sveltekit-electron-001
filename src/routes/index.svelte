@@ -6,7 +6,7 @@
 <main>
 	<Logo />
 
-	<h1>Hello Electron!</h1>
+	<h1>Hello Electron and SvelteKit!</h1>
 
 	<Counter id="0" />
 </main>
